@@ -1,0 +1,67 @@
+.button{
+  display: inline-block;
+  width: 100px;
+  vertical-align: top;
+  margin: 0px 0px 0px 612px
+}
+
+.goldplaces{
+  display: inline-block;
+  width: 170px;
+  height: 150px;
+  background-color: gold;
+  text-align: center;
+  vertical-align: top;
+  margin: 12px 0px 15px 5px
+}
+
+h1{
+  font-size: 20pt;
+  font-family: sans-serif;
+}
+
+.countinggold{
+  display: block;
+  border-top: 0px;
+}
+
+.countinggold h2{
+  display: inline-block;
+  width: 200px;
+  font-size: 20pt;
+  color: green;
+  margin: 10px 0px 0px 5px;
+}
+
+.form{
+  display: inline-block;
+}
+
+h3{
+  font-size: 12pt;
+  font-family: sans-serif;
+}
+
+h4{
+  display: block;
+  font-size: 10pt;
+  font-family: sans-serif;
+}
+
+.sidebar{
+  display: block;
+}
+
+.sidebar p{
+  display: block;
+  font-size: 12pt;
+}
+
+.wrapper{
+  display: inline-block;
+  width: 725px;
+  height: auto;
+  background-color: lightblue;
+  border: 0px 5px 0px 5px;
+  padding-left: 10px;
+}
